@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OK Delivery API — Reference (v1)
-nav_order: 2
+nav_order: 1
 ---
 
 # OK Delivery API — Reference
@@ -12,6 +12,10 @@ nav_order: 2
 - **Production:** `https://api.ok-delivery.ru/v1`  
 - **Sandbox:** `https://sandbox.ok-delivery.ru/v1`
 
+## Навигация по документации
+- [Release Notes — OK Delivery](release-notes)
+- [User Guide — Новая Аптека](user-guide-newapteka)
+
 ## Аутентификация
 
 Передавайте **Bearer Token** в заголовке:
@@ -19,7 +23,7 @@ nav_order: 2
 ```http
 Authorization: Bearer <access_token>
 Content-Type: application/json
-Idempotency-Key: <uuid>   # для POST/PUT/PATCH (рекомендуется)
+Idempotency-Key: <uuid>
 ```
 
 Токены выдаёт B2B‑кабинет партнёра или внутренний Auth‑service (OAuth2 Client Credentials).  

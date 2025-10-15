@@ -1,5 +1,5 @@
 title: OK Delivery Docs
-description: Навигационная страница с ссылками на API Reference, Release Notes и User Guide
+description: API Reference, Release Notes и User Guide
 theme: minima
 plugins:
   - jekyll-seo-tag
