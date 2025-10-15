@@ -1,0 +1,4 @@
+title: OK Delivery Docs
+theme: minima
+plugins:
+  - jekyll-seo-tag
