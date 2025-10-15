@@ -1,5 +1,5 @@
 title: OK Delivery Docs
-description: Примеры техдоков (API, Release Notes, User Guides)
+description: Навигационная страница с ссылками на API Reference, Release Notes и User Guide
 theme: minima
 plugins:
   - jekyll-seo-tag
@@ -7,4 +7,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-favicon: /assets/favicon.ico

@@ -12,8 +12,6 @@ nav_order: 2
 - **Production:** `https://api.ok-delivery.ru/v1`  
 - **Sandbox:** `https://sandbox.ok-delivery.ru/v1`
 
-> Во всех примерах ниже используйте заголовок авторизации Bearer и JSON‑тело запросов.
-
 ## Аутентификация
 
 Передавайте **Bearer Token** в заголовке:
