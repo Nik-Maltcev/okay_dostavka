@@ -1,1 +1,5 @@
-a{color:#0ea5e9} code,pre{background:#f6f8fa;padding:2px 4px;border-radius:6px}
+:root{--accent:#0ea5e9}
+a{color:var(--accent)}
+code, pre{background:#f6f8fa;border-radius:6px;padding:2px 4px}
+table{border-collapse:collapse}
+td,th{border:1px solid #e5e7eb;padding:6px 8px}
