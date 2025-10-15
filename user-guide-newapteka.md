@@ -1,7 +1,7 @@
 ---
 layout: default
 title: User Guide — Новая Аптека
-nav_order: 4
+nav_order: 99
 ---
 
 # Руководство пользователя — «Новая Аптека»
