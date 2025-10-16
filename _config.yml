@@ -1,9 +1,5 @@
 title: OK Delivery Docs
-description: API Reference, Release Notes и User Guide
 theme: minima
-plugins:
-  - jekyll-seo-tag
+plugins: [jekyll-seo-tag]
 markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
+kramdown: {input: GFM, hard_wrap: false}

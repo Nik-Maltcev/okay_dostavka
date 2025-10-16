@@ -1,13 +1,8 @@
 ---
 layout: default
-title: OK Delivery Docs
-nav_order: 1
+title: Home
+permalink: /
+nav_exclude: true
 ---
-
-# OK Delivery Docs
-
-- [OK Delivery API — Reference (v1)](api-reference)
-- [Release Notes — OK Delivery](release-notes)
-- [User Guide — Новая Аптека](user-guide-newapteka)
-
-<small>Build date: 2025-10-15</small>
+<meta http-equiv="refresh" content="0; url={{ '/api-reference' | relative_url }}" />
+<p>Redirecting to <a href="{{ '/api-reference' | relative_url }}">API Reference</a>…</p>
